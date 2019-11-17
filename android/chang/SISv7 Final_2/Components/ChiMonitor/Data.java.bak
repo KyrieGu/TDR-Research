@@ -1,0 +1,117 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class Data {
+	private ArrayList<HashMap<String, String>> data = new ArrayList<HashMap<String, String>>();
+	private ArrayList<String> columns = new ArrayList<String>();
+
+	public static void main(String[] args)
+	{
+
+							
+	}
+
+	public Data(String table, String QueryIn) {
+		String UrlIn = "http://ksiresearch.org/chronobot/PHP_Post.php";
+		String q = "SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name = '" + table + "'";
+		this.getColumns(UrlIn, q);
+		this.getRecords(UrlIn, QueryIn);
+	}
+	
+	public String getRecord(int index, String attribute) {
+		return data.get(index).get(attribute);
+	}
+	
+	public String getRecord(int index, int i) {
+		return data.get(index).get(columns.get(i));
+	}
+	
+	public int size() {
+		return data.size();
+	}
+	
+	public ArrayList<String> getColumns () {
+		return columns;
+	}
+	
+	private void getColumns(String UrlIn, String QueryIn){
+        HttpURLConnection conn=null;
+        try{
+        URL url=new URL(UrlIn);
+        String agent="Applet";
+        String query="query=" + QueryIn;
+        String type="application/x-www-form-urlencoded";
+        conn=(HttpURLConnection)url.openConnection();
+        conn.setDoInput(true);
+        conn.setDoOutput(true);
+        conn.setRequestMethod("POST");
+        conn.setRequestProperty( "User-Agent", agent );
+        conn.setRequestProperty( "Content-Type", type );
+        conn.setRequestProperty( "Content-Length", ""+query.length());
+        OutputStream out=conn.getOutputStream();
+        out.write(query.getBytes());
+        BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+        String inputLine;
+        while((inputLine=in.readLine())!=null){
+        	columns.add(inputLine.trim());
+        	//System.out.print(inputLine+"\n");
+        }
+        in.close();
+        int grc = conn.getResponseCode();
+        //System.out.print("ResponseCode = "+ grc +"\n");
+        String grm=conn.getResponseMessage();
+        //System.out.print("ResponseMessage = "+ grm +"\n");
+        }catch(Exception e){
+        e.printStackTrace();
+        }finally{
+        conn.disconnect();
+        }
+    }
+	
+	private void getRecords(String UrlIn, String QueryIn){
+		String [] datas = null;
+		HashMap<String, String> r = new HashMap<String, String>();
+        HttpURLConnection conn=null;
+        try{
+        URL url=new URL(UrlIn);
+        String agent="Applet";
+        String query="query=" + QueryIn;
+        String type="application/x-www-form-urlencoded";
+        conn=(HttpURLConnection)url.openConnection();
+        conn.setDoInput(true);
+        conn.setDoOutput(true);
+        conn.setRequestMethod("POST");
+        conn.setRequestProperty( "User-Agent", agent );
+        conn.setRequestProperty( "Content-Type", type );
+        conn.setRequestProperty( "Content-Length", ""+query.length());
+        OutputStream out=conn.getOutputStream();
+        out.write(query.getBytes());
+        BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+        String inputLine;
+        while((inputLine=in.readLine())!=null){
+        	datas = inputLine.split("\t");
+        	for (int i = 0; i < datas.length; i++) {
+        		r.put(columns.get(i), datas[i]);
+        	}
+        	data.add(r);
+        	r = new HashMap<String, String>();
+        	//System.out.print(inputLine+"\n");
+        }
+        in.close();
+        int grc = conn.getResponseCode();
+        //System.out.print("ResponseCode = "+ grc +"\n");
+        String grm=conn.getResponseMessage();
+        //System.out.print("ResponseMessage = "+ grm +"\n");
+        }catch(Exception e){
+        e.printStackTrace();
+        }finally{
+        conn.disconnect();
+        }
+    }
+
+}

@@ -1,0 +1,4 @@
+#Tue May 14 12:45:39 EDT 2019
+base.0=/Users/gu/Onedrive/Backup/Research/android/App/billy_eeg-master2/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

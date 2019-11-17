@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/menu/bletest.xml",
+        "source": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/src/main/res/menu/bletest.xml"
+    },
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/src/main/res/menu/global.xml"
+    }
+]

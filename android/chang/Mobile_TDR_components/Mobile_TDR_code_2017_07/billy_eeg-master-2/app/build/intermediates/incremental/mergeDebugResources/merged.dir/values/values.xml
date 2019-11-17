@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">action_settings</string>
+    <string name="app_name">Billy EEG</string>
+    <string name="attention">Attention</string>
+    <string name="close">Disconnect</string>
+    <string name="connect">Connect</string>
+    <string name="daily_detail">Daily Detail</string>
+    <string name="daily_history">Daily_history</string>
+    <string name="history">history</string>
+    <string name="keep_log">Keep Run</string>
+    <string name="keep_screen_on">Keep screen On</string>
+    <string name="keep_screen_on_desc">Keep screen on. Careful on battery</string>
+    <string name="meditation">Meditation</string>
+    <string name="wake_lock_desc">keeps CPU on when screen off. Careful on battery</string>
+</resources>

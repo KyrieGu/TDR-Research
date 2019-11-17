@@ -1,0 +1,41 @@
+import unittest
+
+
+class Solution(object):
+    def myAtoi(self, str):
+        """
+        :type str: str
+        :rtype: int
+        """
+        flag = -1 if "-" in str else 1
+        n = len(str)
+        res = 0
+        for i in range(n - 1):
+            res += str[n - i - 1]
+            res *= 10
+        if flag > 0:
+            res += str[0]
+        return res * flag
+
+
+class test(unittest.TestCase):
+    def __init__(self):
+        self.c = Solution()
+
+    def test_zero(self):
+        self.assertEqual(self.c.myAtoi("0"), 0)
+
+    def test_one(self):
+        self.assertEqual(self.c.myAtoi("1"), 1)
+
+    def test_negative_one(self):
+        self.assertEqual(self.c.myAtoi("-1"), -1)
+
+def main():
+    t = test()
+    t.test_one()
+    t.test_negative_one()
+    t.test_zero()
+
+if __name__ == "__main__":
+    main()s

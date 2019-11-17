@@ -1,0 +1,65 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master-2/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master-2/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master-2/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master-2/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master-2/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2,11,10,9,5,6,4,14,17,18,12,15",
+                        "startColumns": "4,4,4,4,4,3,3,3,4,4,3,4,3",
+                        "startOffsets": "104,56,412,367,323,206,259,163,515,659,717,460,561",
+                        "endColumns": "59,46,47,44,43,52,54,42,45,57,81,49,90",
+                        "endOffsets": "159,98,455,407,362,255,310,202,556,712,795,505,648"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,229,276,324,369,413,467,523,567,613,671,754,804",
+                        "endColumns": "59,46,47,44,43,53,55,43,45,57,82,49,91",
+                        "endOffsets": "224,271,319,364,408,462,518,562,608,666,749,799,891"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/libs/mpandroidchartlibrary-2-0-8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673b11a1d7821baca4d5c4b8953a4500b28083ea">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-0-8_9f1cbed9e34d4262453a3324eecc9d76b68b3dff.jar" />
+    </item>
+
+</items>

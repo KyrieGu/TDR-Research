@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">LivePulse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">LivePulse</string>
+    <string name="switch_cam">Switch Camera</string>
+    <string name="camera_alert">Device has only one camera!</string>
+    <string name="camera_disabled">Device cameras disabled</string>
+    <string name="camera_enabled">Device cameras enabled</string>
+
+</resources>

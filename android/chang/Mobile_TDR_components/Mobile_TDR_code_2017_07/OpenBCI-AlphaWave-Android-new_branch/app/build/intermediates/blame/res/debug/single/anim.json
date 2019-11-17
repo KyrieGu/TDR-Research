@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/move_right_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/src/main/res/anim/move_right_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/move_left_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/src/main/res/anim/move_left_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/move_right_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/src/main/res/anim/move_right_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/move_left_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/src/main/res/anim/move_left_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    }
+]

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_bb7dc83e28b1a46bdeab275d84b10597b129c5ff.jar" />
+    </item>
+    <item
+        jar="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_1d672c498f4b81098c459edc71973d89f84f8889.jar" />
+    </item>
+    <item
+        jar="/Users/victorzhz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_f6b7385d4ab36a3b03adedd8afd3546da7f4ff3a.jar" />
+    </item>
+    <item
+        jar="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/libs/mpandroidchartlibrary-2-0-8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="673b11a1d7821baca4d5c4b8953a4500b28083ea">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/pre-dexed/debug/mpandroidchartlibrary-2-0-8_e62bdec65065a8745608200c5d1025a0a872a486.jar" />
+    </item>
+    <item
+        jar="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/victorzhz/Desktop/cs2202_chang/chang/SISv7 Final/Android/AudioBLE/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_60d58c914a79b454e617a69dc90fae4e55d10c09.jar" />
+    </item>
+
+</items>

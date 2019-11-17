@@ -1,0 +1,60 @@
+Readme for iPage
+
+1. This readme shows you how to login iPage, which
+is the web-based environment to run chronobot
+applications, and how to access and manage web pages,
+databases, email and so on.
+
+2. iPage Login: http://www.ipage.com/controlpanel
+Login name: ksiresearchorg   Password: Al2105be#
+You will be at the control panel, and you can click on
+an icon to go to different managers such as mailcentral,
+filemanager, MySQL database managers and so on.
+
+3. From Control Panel you can click on File Manager.
+Notice there is a chronobot directory, and various
+php and html files are in this directory. The top-level
+html page is called:
+
+   http://ksiresearchorg.ipage.com/chronobot/Admin.html
+
+Please enter this URL to your browser and try it.  So,
+your interface html and related php pages should all
+be in the chronobot directory or its sub-directory.
+Notice there are already some php page in the chronobot directory.
+
+   http://ksiresearchorg.ipage.com/chronobot/index.php
+   http://ksiresearchorg.ipage.com/chronobot/dashboard.php
+   http://ksiresearchorg.ipage.com/chronobot/users.php
+
+4. From Control Panel you can click on MySQL database to
+access MySQL manager.  Click on chronobot, and then click
+on Access PhpMyAdmin to access the databases.  Next you
+click on chronobot and then users to inspect the users
+relation under chronobot.  This is where the uploaded
+data are stored.  You can click on "browse" to inspect
+the individual records.
+
+5. The following is e-mail account for chronobot.  So the healthcare
+professional can log in as "chronobot".
+Email login: chronobot@ksiresearch.org password: Health14
+
+6. The following is KSI research web site.  Once your
+chronobot interface is running it can be linked to this page:
+KSI Research website http://ksiresearchorg.ipage.com/ksiresearch.html
+That is how I will test your chronobot interface.
+
+7. The following is the chronobot interface
+implemented by Zhang Qiao and improved by Yin:
+http://ksiresearchorg.ipage.com/chronobot/index.php
+
+8. The following users are for the chronobot interface:
+
+username: user0@ksiresearch.org   password: al2105be uid: 376896 usertype: s socialnetwork: yes
+
+username: user1@ksiresearch.org  password: User1234 uid: 1 usertype: u
+username: user2@ksiresearch.org   password: User2234 uid: 2 usertype: u
+username: dbs19@pitt.edu  password: dbs19@pitt.edu uid: 376932  usertype:u gender:m  dob:0000-00-00 00:00:00
+
+username: admin1@ksiresearch.org  password: Admin1234  uid: 376906  usertype: a
+

@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <RelativeLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/lblHeartRatelayout"
+        android:layout_marginTop="30dp">
+    	
+    	<TextView
+        	android:id="@+id/lblHeartRate"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_centerVertical="true"
+        	android:layout_centerHorizontal="true"
+        	android:text="--"
+        	android:textSize="36pt"
+        	tools:context=".MainActivity" />
+		
+		 <ImageView
+		    android:id="@+id/statusImage"
+		    android:layout_width="30dp"
+		    android:layout_height="30dp"
+		    android:src="@drawable/red"
+		    android:layout_marginRight="30dp"
+		    android:layout_alignParentRight="true"
+		    android:layout_centerVertical="true"/>
+        </RelativeLayout>
+     
+     	<TextView
+        	android:id="@+id/statusText"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@id/lblHeartRatelayout"
+        	android:textSize="18dp"
+        	android:text="Please press the start button to measure your heart rate"
+        	android:layout_centerHorizontal="true"
+        	android:layout_marginLeft="20dp"/>
+
+		<FrameLayout
+	      android:layout_alignParentBottom="true"
+	      android:layout_marginBottom="200dp"	
+	      android:layout_centerHorizontal="true"	  
+		  android:layout_width="176px"
+		  android:layout_height="144px"
+		  android:id="@+id/cameraFrame">
+		    <SurfaceView android:id="@+id/preview" android:layout_width="wrap_content" android:layout_height="wrap_content"></SurfaceView>
+		</FrameLayout>
+		
+		<Button
+		    android:id="@+id/btnStop"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentBottom="true"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginBottom="44dp"
+		    android:onClick="OnClickStop"
+		    android:text="Stop" />
+
+		<Button
+		    android:id="@+id/btnStart"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/btnStop"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginBottom="14dp"
+		    android:onClick="OnClickStart"
+		    android:text="Start" />
+
+</RelativeLayout>

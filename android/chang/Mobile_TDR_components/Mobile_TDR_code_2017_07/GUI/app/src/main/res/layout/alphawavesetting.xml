@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:weightSum="1">
+
+        <TextView
+            android:gravity="center"
+            android:text="Alpha Wave Settings"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/alphawave"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize = "20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Standard Setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gazeDurationSetting"
+            android:layout_marginLeft="10dp"
+            android:textStyle="normal|bold|italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp">
+
+        <TextView
+            android:text="@string/samplingRate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/samplingRate1"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="@string/samplingRateFixedTime1"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/gazeDurationFixedTime1"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds1"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/samplingFixedButton1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp">
+
+        <TextView
+            android:text="@string/samplingRate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/samplingRate2"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="@string/samplingRateFixedTime2"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/gazeDurationFixedTime2"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds2"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/samplingFixedButton2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp"
+        android:weightSum="1">
+
+        <TextView
+            android:text="@string/signalLength"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalLength1"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold"/>
+
+        <TextView
+            android:text="@string/signalLengthFixedTime1"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalFixedTime1"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds3"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalFixedButton1"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp"
+        android:weightSum="1">
+
+        <TextView
+            android:text="@string/signalLength"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalLength2"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold"/>
+
+        <TextView
+            android:text="@string/signalLengthFixedTime2"
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalFixedTime2"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds4"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalFixedButton2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Customized Setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gazeDurationSetting2"
+            android:layout_marginLeft="10dp"
+            android:textStyle="normal|bold|italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp">
+
+        <TextView
+            android:text="@string/samplingRate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/samplingRateText"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold" />
+
+        <EditText
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:ems="10"
+            android:id="@+id/messagesamplingRate"
+            android:layout_marginLeft="20dp"
+            android:text="@string/samplingRate_value" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds5"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalSendButton"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp"
+        android:weightSum="1">
+
+        <TextView
+            android:text="@string/signalLength"
+            android:layout_width="96dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/signalLengthText"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold"/>
+
+        <EditText
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:ems="10"
+            android:id="@+id/messagesignalLength"
+            android:layout_marginLeft="20dp"
+            android:text="@string/signalLength_value" />
+
+        <TextView
+            android:text="seconds"
+            android:layout_width="75dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds6"
+            android:layout_marginLeft="15dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lengthSendButton"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

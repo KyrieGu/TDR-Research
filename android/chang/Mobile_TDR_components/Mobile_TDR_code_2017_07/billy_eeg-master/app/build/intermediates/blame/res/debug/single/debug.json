@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/layout_listview.xml.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/layout/listview.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/build/intermediates/res/merged/debug/menu_hello_eeg.xml.flat",
+        "source": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/billy_eeg-master/app/src/main/res/menu/hello_eeg.xml"
+    }
+]

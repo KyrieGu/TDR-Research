@@ -1,0 +1,217 @@
+[
+    {
+        "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\user\\Desktop\\Mobile_TDR_components\\Mobile_TDR_code_2017_07\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/victorzhz/.android/build-cache/d367e53982e490c9d1e8f717a2b7bc114d170d16/output/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\C:\\Users\\User\\Desktop\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/C:\\Users\\zzn\\Desktop\\TDR_spring_work\\OpenBCI-AlphaWave-Android-new_branch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/res/merged/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/victorzhz/Desktop/cs2202_chang/chang/Mobile_TDR_components/Mobile_TDR_code_2017_07/OpenBCI-AlphaWave-Android-new_branch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    }
+]

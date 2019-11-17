@@ -1,0 +1,6 @@
+
+Message 99  EKGToTemp: which is an alert message, when temperature component receive the message 99, It will calculate  a slope of temperature change
+
+in last one hour or two, if the slope is over the threshold, a message 38 will be sent to uploader and send a email to doctor.
+
+ 

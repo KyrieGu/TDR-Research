@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:weightSum="1">
+
+        <TextView
+            android:gravity="center"
+            android:text="Audio Settings"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/audio"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize = "20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp">
+
+        <TextView
+            android:text="@string/audioType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioTypeText"
+            android:layout_marginLeft="10dp"
+            android:textColor="#d50000"
+            android:textStyle="normal|bold" />
+
+        <EditText
+            android:layout_width="45dp"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:ems="10"
+            android:id="@+id/messageaudioType"
+            android:layout_marginLeft="10dp"
+            android:text="@string/gazeDuration_value" />
+
+        <TextView
+            android:text="(select from 1-3)"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/audioBlank"
+            android:layout_marginLeft="0dp"
+            android:textStyle="normal|bold" />
+
+        <Button
+            android:text="Send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/typeSendButton"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="8dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

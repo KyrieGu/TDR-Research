@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pnml>
+    <place>
+        <name>
+            <value>!name!</value>
+        </name>
+        <scope>
+            <value>!scope!</value>
+        </scope>
+        <initialCode>
+            <value></value>
+        </initialCode>
+        <helperCode>
+            <value></value>
+        </helperCode>
+        <helperClassCode>
+            <value></value>
+        </helperClassCode>
+    </place>
+    <place>
+        <name>
+            <value>!component!</value>
+        </name>
+    </place>
+    <transition>
+        <name>
+            <value>!componentName!</value>
+        </name>
+        <source>
+            <value>!componentSource!</value>
+        </source>
+        <purpose>
+            <value>!componentPurpose!</value>
+        </purpose>
+        <code>
+            <value></value>
+        </code>
+    </transition>
+</pnml>

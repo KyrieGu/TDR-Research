@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pnml>
+	<place>
+		<name>
+			<value>DiController1</value>
+		</name>
+		<scope>
+			<value>SIS.Di</value>
+		</scope>
+		<initialCode>
+			<value></value>
+		</initialCode>
+		<helperCode>
+			<value></value>
+		</helperCode>
+		<helperClassCode>
+			<value></value>
+		</helperClassCode>
+	</place>
+	<place>
+		<name>
+			<value>Temp</value>
+		</name>
+	</place>
+	<transition>
+		<name>
+			<value>TemptoDiController1</value>
+		</name>
+		<source>
+			<value>Temp</value>
+		</source>
+		<purpose>
+			<value>TempAlert</value>
+		</purpose>
+		<code>
+			<value></value>
+		</code>
+	</transition>
+</pnml>

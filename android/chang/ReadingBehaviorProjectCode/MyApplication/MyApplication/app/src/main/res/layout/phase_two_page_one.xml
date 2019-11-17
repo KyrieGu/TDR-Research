@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".phase2Page1">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".phase2Page1"
+        tools:ignore="MergeRootFrame">
+
+        <WebView
+            android:id="@+id/activity_main_webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:id="@+id/textView"
+            android:layout_gravity="right|bottom" />
+
+        <FrameLayout
+            android:layout_width="150px"
+            android:layout_height="200px"
+            android:id="@+id/preview"
+            android:visibility="invisible"
+            android:layout_gravity="left|top"></FrameLayout>
+
+        <Button
+            android:layout_width="200px"
+            android:layout_height="100px"
+            android:text="Next"
+            android:id="@+id/next_btn_phase2_1"
+            android:onClick="phase2Next"
+            android:layout_gravity="right|bottom" />
+
+        <Button
+            android:layout_width="200px"
+            android:layout_height="100px"
+            android:text="FINISH"
+            android:id="@+id/finish_btn_phase2_1"
+            android:onClick="phase2Finish"
+            android:visibility="invisible"
+            android:layout_gravity="right|bottom" />
+
+
+    </FrameLayout>
+
+</RelativeLayout>
+

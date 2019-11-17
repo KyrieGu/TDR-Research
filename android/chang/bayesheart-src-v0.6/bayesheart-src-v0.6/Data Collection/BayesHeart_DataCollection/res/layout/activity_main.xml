@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/lblHeartRate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="0"
+        android:textSize="36pt"
+        tools:context=".MainActivity" />
+
+		<FrameLayout
+	      android:layout_alignParentBottom="true"
+	      android:layout_marginBottom="218dp"	
+	      android:layout_centerHorizontal="true"	  
+		  android:layout_width="176px"
+		  android:layout_height="144px">
+		    <SurfaceView android:id="@+id/preview" android:layout_width="wrap_content" android:layout_height="wrap_content"></SurfaceView>
+		</FrameLayout>
+
+		<Button
+		    android:id="@+id/btnSave"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentBottom="true"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginBottom="44dp"
+		    android:onClick="OnClickSave"
+		    android:text="Save Data" />
+
+		<Button
+		    android:id="@+id/btnStart"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_above="@+id/btnSave"
+		    android:layout_alignParentLeft="true"
+		    android:layout_alignParentRight="true"
+		    android:layout_marginBottom="14dp"
+		    android:onClick="OnClickStart"
+		    android:text="Start" />
+
+</RelativeLayout>

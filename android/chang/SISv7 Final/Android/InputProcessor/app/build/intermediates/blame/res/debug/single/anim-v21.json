@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/nannanwen/.android/build-cache/afe75d8acb53526e882321f4d5d59b1c30820462/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/nannanwen/.android/build-cache/afe75d8acb53526e882321f4d5d59b1c30820462/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/nannanwen/Downloads/Chang android /chang/SISv7 Final/Android/InputProcessor/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/nannanwen/.android/build-cache/afe75d8acb53526e882321f4d5d59b1c30820462/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
